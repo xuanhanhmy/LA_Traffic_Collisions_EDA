@@ -5,4 +5,4 @@ The dataset used in this notebook reflects traffic collision incidents in the Ci
 
 For more information about this dataset, please visit LA OpenData at https://data.lacity.org/Public-Safety/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w
 
-LAPD GeoJson file: https://geohub.lacity.org/datasets/lahub::lapd-divisions/about
+LAPD Divisions GeoJson file: https://geohub.lacity.org/datasets/lahub::lapd-divisions/about
